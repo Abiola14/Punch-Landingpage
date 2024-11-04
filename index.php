@@ -45,7 +45,7 @@
         <div class="tweet">
             <p>@username: Tweet content goes here.</p>
         </div>
-        <!-- Repeat for each tweet -->
+       
     </aside>
         </div>
     </section>
@@ -85,21 +85,21 @@
                 <p>Short description about voter education topic.</p>
                 <time datetime="2022-02-19">February 19, 2022</time>
             </article>
-            <!-- Repeat for each post -->
+       
             <article class="education-item">
                 <img src="/images/image 3(1).png" alt="Education Topic">
                 <h4>Lorem ipsum dolor</h4>
                 <p>Short description about voter education topic.</p>
                 <time datetime="2022-02-19">February 19, 2022</time>
             </article>
-            <!-- Repeat for each post -->
+       
               <article class="education-item">
                 <img src="/images/image 3(1).png" alt="Education Topic">
                 <h4>Lorem ipsum dolor</h4>
                 <p>Short description about voter education topic.</p>
                 <time datetime="2022-02-19">February 19, 2022</time>
             </article>
-            <!-- Repeat for each post -->
+          
         </div>
             <!-- Newsletter Signup -->
     <section class="newsletter">
@@ -135,7 +135,7 @@
                 <div class="play-icon">▶</div>
                 <h4>Video Title</h4>
             </div>
-            <!-- Repeat for each video -->
+            
         </div>
     </section>
 
